@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.build/
+dist/
+build/
+*.spec
+USB/
+cache/
+manager.json
+manager.lock
+.env
+*.partial
