@@ -5,7 +5,7 @@
 **BMW MGU 离线仓库管理器**  
 在 Windows 上整理软件源、比较版本，制作 MGU Store 全量与增量 USB 部署包。
 
-[![Release](https://img.shields.io/github/v/release/SleepyK911/BMW-MGU-Offline-Manager)](https://github.com/SleepyK911/BMW-MGU-Offline-Manager/releases/latest)
+[![Release](https://img.shields.io/badge/release-1.2.1-1761bc)](https://github.com/SleepyK911/BMW-MGU-Offline-Manager/releases/latest)
 [![Windows](https://img.shields.io/badge/platform-Windows%20x64-1761bc)](#下载与开始使用)
 [![License](https://img.shields.io/badge/license-GPL--3.0--or--later-blue)](LICENSE)
 
