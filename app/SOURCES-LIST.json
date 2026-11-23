@@ -1,0 +1,59 @@
+{
+  "builder": "2.0",
+  "sources": [
+    {
+      "repo": "robertnisipeanu/mgu-store",
+      "latest_channel": "catalog",
+      "usb_folder": "00-mgu-store",
+      "note": "MGU Store and core dependencies"
+    },
+    {
+      "repo": "robertnisipeanu/idrive-apps",
+      "latest_channel": "catalog",
+      "usb_folder": "01-idrive-apps",
+      "note": "Waze on Cluster and cluster-render"
+    },
+    {
+      "repo": "cauliflowermossgrape/idrive7-apps",
+      "latest_channel": "branch",
+      "usb_folder": "02-idrive7-apps",
+      "note": "Redline, Warm-Up, M Vitals, tools"
+    },
+    {
+      "repo": "bimmer-lab/apps",
+      "latest_channel": "branch",
+      "usb_folder": "03-bimmer-lab",
+      "note": "HUD Widgets and Cluster Themes"
+    },
+    {
+      "repo": "eroobeeroo/idrive7-cluster-info",
+      "latest_channel": "branch",
+      "usb_folder": "04-cluster-info",
+      "note": "Cluster Info, Layouts, Centre"
+    },
+    {
+      "repo": "IterioDev/car-apps",
+      "latest_channel": "tags",
+      "usb_folder": "05-iteriodev",
+      "note": "Seats and iteriodev-comfort, other apps/tools"
+    },
+    {
+      "repo": "JustAnotherPU/mgu-apps",
+      "latest_channel": "catalog",
+      "usb_folder": "06-jap",
+      "note": "iDrive Monitor and network tools"
+    },
+    {
+      "repo": "hexlay/idrive7-custom-apps",
+      "latest_channel": "branch",
+      "usb_folder": "07-hexlay",
+      "note": "Spotify and M-Copilot"
+    },
+    {
+      "repo": "JackieZ123430/idrive7-apps-cn",
+      "latest_channel": "branch",
+      "usb_folder": "08-cn",
+      "note": "Chinese translations; duplicate app IDs possible"
+    }
+  ]
+}
